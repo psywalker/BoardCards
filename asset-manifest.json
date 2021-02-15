@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/boardcards/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/boardcards/static/js/main.ae5bd414.chunk.js",
-    "main.js.map": "/boardcards/static/js/main.ae5bd414.chunk.js.map",
-    "runtime-main.js": "/boardcards/static/js/runtime-main.7a6e12f7.js",
-    "runtime-main.js.map": "/boardcards/static/js/runtime-main.7a6e12f7.js.map",
-    "static/js/2.b46b3ca8.chunk.js": "/boardcards/static/js/2.b46b3ca8.chunk.js",
-    "static/js/2.b46b3ca8.chunk.js.map": "/boardcards/static/js/2.b46b3ca8.chunk.js.map",
-    "static/js/3.45cf21b3.chunk.js": "/boardcards/static/js/3.45cf21b3.chunk.js",
-    "static/js/3.45cf21b3.chunk.js.map": "/boardcards/static/js/3.45cf21b3.chunk.js.map",
-    "index.html": "/boardcards/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/boardcards/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.b46b3ca8.chunk.js.LICENSE.txt": "/boardcards/static/js/2.b46b3ca8.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/boardcards/static/media/logo.6ce24c58.svg"
+    "main.css": "/BoardCards/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/BoardCards/static/js/main.ae5bd414.chunk.js",
+    "main.js.map": "/BoardCards/static/js/main.ae5bd414.chunk.js.map",
+    "runtime-main.js": "/BoardCards/static/js/runtime-main.197b222d.js",
+    "runtime-main.js.map": "/BoardCards/static/js/runtime-main.197b222d.js.map",
+    "static/js/2.b46b3ca8.chunk.js": "/BoardCards/static/js/2.b46b3ca8.chunk.js",
+    "static/js/2.b46b3ca8.chunk.js.map": "/BoardCards/static/js/2.b46b3ca8.chunk.js.map",
+    "static/js/3.45cf21b3.chunk.js": "/BoardCards/static/js/3.45cf21b3.chunk.js",
+    "static/js/3.45cf21b3.chunk.js.map": "/BoardCards/static/js/3.45cf21b3.chunk.js.map",
+    "index.html": "/BoardCards/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/BoardCards/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.b46b3ca8.chunk.js.LICENSE.txt": "/BoardCards/static/js/2.b46b3ca8.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/BoardCards/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.7a6e12f7.js",
+    "static/js/runtime-main.197b222d.js",
     "static/js/2.b46b3ca8.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
     "static/js/main.ae5bd414.chunk.js"
