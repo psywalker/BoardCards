@@ -1,6 +1,6 @@
 {
   "name": "boardcards",
-  "homepage": "http://psywalker.github.io/boardcards",
+  "homepage": "http://psywalker.github.io/BoardCards",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
